@@ -95,6 +95,9 @@ a:not([href]):not([tabindex]) {
 
 .intro {
     font-size: 23px;
+    border-color: white;
+    border-bottom-style: double;
+    margin: 26px;
 }
 
 
